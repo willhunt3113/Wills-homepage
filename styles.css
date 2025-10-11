@@ -48,7 +48,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #3498db;
+    color: #27ae60;
 }
 
 main {
@@ -69,7 +69,7 @@ main {
     color: #2c3e50;
     margin-bottom: 1.5rem;
     font-size: 2rem;
-    border-bottom: 3px solid #3498db;
+    border-bottom: 3px solid #27ae60;
     padding-bottom: 0.5rem;
 }
 
@@ -125,7 +125,7 @@ main {
     background: #ecf0f1;
     padding: 0.5rem 1rem;
     border-radius: 4px;
-    border-left: 3px solid #3498db;
+    border-left: 3px solid #27ae60;
 }
 
 .contact-links {
@@ -155,7 +155,7 @@ main {
 }
 
 .email a {
-    color: #3498db;
+    color: #27ae60;
     text-decoration: none;
 }
 
